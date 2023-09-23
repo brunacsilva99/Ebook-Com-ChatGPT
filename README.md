@@ -2,6 +2,9 @@
 
 Este repositório contém um guia passo a passo para criar um eBook usando a IA ChatGPT e o MidJourney Bot. Você aprenderá como usar essas ferramentas para gerar conteúdo de eBook e obterá instruções detalhadas para o processo.
 
+Para ver a publicação final do meu eBook basta acessar: 
+https://www.linkedin.com/posts/activity-7111302004622172160-IXhx?utm_source=share&utm_medium=member_ios
+
 ## Passo 1: Configuração do Ambiente
 
 Antes de começarmos, é necessário configurar seu ambiente de desenvolvimento. Certifique-se de ter o seguinte:
